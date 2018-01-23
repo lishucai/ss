@@ -7,7 +7,7 @@
 * 当前科学上网方式
 * 福利
 *** 
-###### 介绍
+### 介绍
 &nbsp;&nbsp;&nbsp;&nbsp;SS 的全称是Shadowsocks，是一种加密的传输方式（一种基于Socks5 代理方式的网络数据加密传输包）；SS 是目前主流的科学上网方式。
 &nbsp;&nbsp;&nbsp;&nbsp;有很多的SS 客户端，但是仅仅有SS 客户端还不能翻墙，`还得需要在SS 客户端中添加正常可用的SS 信息，SS 信息可以自己买VPS 服务器搭建，也可以买别人搭建好的，也有人搭建了免费共享出来的`。网上卖SS 信息的非常多非常多（不过跑路的也很多，自己当心），但都不是官方提供，SS 官网并不卖服务。
 - SS 唯一官网（官网不卖服务）：<https://shadowsocks.org>
@@ -28,7 +28,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;VPN 也是传输方式，VPN 默认是全局的（也有少数是可以分流的），开启后所有App 软件都会走代理，而且VPN 的特征值太明显，目前已被G·F·W 干扰。
 &nbsp;&nbsp;&nbsp;&nbsp;SS 是和VPN 完全不同类型的东西，SS 的客户端是智能代理智能分流，根据规则自动判断，只有被墙了的才会走代理（自己也可以设置代理域名和IP），不需要代理的走直连，这样就可以7x24的开启SS，国内和没被墙的走直连不走代理，国内国外两不误。SS 比VPN 好用太多了！
 
-###### 客户端
+### 客户端
 
 - iOS 上的 SS 客户端（国区可下载）：
 	- [OpenWingy](https://itunes.apple.com/cn/app/openwingy/id1294672758)
@@ -84,11 +84,11 @@
 	- [NetPatch](https://play.google.com/store/apps/details?id=co.netpatch.firewall)
 	- [Postern](https://play.google.com/store/apps/details?id=com.tunnelworkshop.postern)（Postern 支持导入Surge配置）
 
-###### 其他
+### 其他
 &nbsp;&nbsp;&nbsp;&nbsp; iOS 设备上使用SS 客户端也会显示VPN 图标：是因为使用了iOS 系统的VPN Network Extension接口（以及NEPacketTunnelProvider 和NWUDPSession 组件），iOS 9 才开放的此接口，这些新接口让我们可以制作出私密协议的VPN产品，苹果官方称之为Enterprise VPN。正是因为iOS 9 之后开放了这个接口和组件才能有今天iOS 上的各式各样的SS 客户端。
 &nbsp;&nbsp;&nbsp;&nbsp; 官方文档：<https://developer.apple.com/documentation/networkextension>
 
-###### 当前科学上网方式
+### 当前科学上网方式
 （百分比为上界）
 1. Shadowsocks 63.2%
 2. ShadowsocksR 37.1%
@@ -102,7 +102,7 @@
 10. V2Ray 5.6%
 - [来自 ShadowsocksR news]
 
-###### 福利
+### 福利
 触动力，所有打折优惠软件一网打尽！使用优惠码「congcong」还能立减5元，马上下手咯！
 <http://www.hitnology.com/listgoods>
 ![congcong](https://github.com/congcong0806/ss/blob/master/redeem-congcong.jpg)
