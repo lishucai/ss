@@ -1,4 +1,3 @@
-Title: SS 简介
 ###### 介绍
 &nbsp;&nbsp;&nbsp;&nbsp;SS 的全称是Shadowsocks，是一种加密的传输方式（一种基于Socks5 代理方式的网络数据加密传输包）；SS 是目前主流的科学上网方式。
 &nbsp;&nbsp;&nbsp;&nbsp;有很多的SS 客户端，但是仅仅有SS 客户端还不能翻墙，`还得需要在SS 客户端中添加正常可用的SS 信息，SS 信息可以自己买VPS 服务器搭建，也可以买别人搭建好的，也有人搭建了免费共享出来的`。网上卖SS 信息的非常多非常多（不过跑路的也很多，自己当心），但都不是官方提供，SS 官网并不卖服务。
@@ -97,7 +96,7 @@ Title: SS 简介
 ###### 福利
 触动力，所有打折优惠软件一网打尽！使用优惠码「congcong」还能立减5元，马上下手咯！
 <http://www.hitnology.com/listgoods>
-![congcong](http://ww1.sinaimg.cn/large/9b84e6acgy1fltld8f7wbj20xc0p017g.jpg)
+![congcong](https://github.com/congcong0806/ss/blob/master/redeem-congcong.jpg)
 
 &copy; Copyright 聪聪：<https://t.me/congcong>
 
