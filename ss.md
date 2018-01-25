@@ -75,10 +75,14 @@
 - Win 上的 SS 客户端：
 	- [Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
 	- [Shadowsocks 2.3.1](https://github.com/shadowsocks/shadowsocks-windows/releases/tag/2.3.1)（XP 系统可用）
-	- [ShadowsocksR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)
+	- [ShadowsocksR](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases)
+	- [ShadowsocksRR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)
+	- [flora](https://github.com/huacnlee/flora-kit)
 	- [SScap](https://sourceforge.net/projects/sscap/)
 	- [SSTap](https://www.sockscap64.com/sstap)
 	- [SocksCap](https://www.sockscap64.com/sockscap-64-free-download/)
+- Linux上的 SS 客户端：
+	- [flora](https://github.com/huacnlee/flora-kit)
 - Android 上的 SS 客户端：
 	- [影梭](https://github.com/shadowsocks/shadowsocks-android/releases)
 	- [ShadowsocksR](https://github.com/shadowsocksrr/shadowsocksr-android/releases)
