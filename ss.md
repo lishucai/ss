@@ -31,6 +31,7 @@
 ### 客户端
 
 - iOS 上的 SS 客户端（国区可下载）：
+	- [Surge 3](https://itunes.apple.com/cn/app/surge-3-web-developer-tool/id1329879957)
 	- [OpenWingy](https://itunes.apple.com/cn/app/openwingy/id1294672758)
 	- [Quantumult](https://itunes.apple.com/cn/app/quantumult/id1252015438)
 	- [Detour](https://itunes.apple.com/cn/app/id1260141606)
