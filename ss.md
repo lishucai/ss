@@ -9,20 +9,23 @@
 *** 
 ### 介绍
 &nbsp;&nbsp;&nbsp;&nbsp;SS 的全称是Shadowsocks，是一种加密的传输方式（一种基于Socks5 代理方式的网络数据加密传输包）；SS 是目前主流的科学上网方式。
+&nbsp;&nbsp;&nbsp;&nbsp;SSR（全称ShadowsocksR）是SS 的修改版，也算是增强版，是在SS 的基础上做了些功能的增加和修改。
 &nbsp;&nbsp;&nbsp;&nbsp;有很多的SS 客户端，但是仅仅有SS 客户端还不能翻墙，`还得需要在SS 客户端中添加正常可用的SS 信息，SS 信息可以自己买VPS 服务器搭建，也可以买别人搭建好的，也有人搭建了免费共享出来的`。网上卖SS 信息的非常多非常多（不过跑路的也很多，自己当心），但都不是官方提供，SS 官网并不卖服务。
 - SS 唯一官网（官网不卖服务）：<https://shadowsocks.org>
 - 维基百科详细介绍：<https://zh.wikipedia.org/wiki/Shadowsocks>
 - 原理看这个：<http://vc2tea.com/whats-shadowsocks>
+- SSR 维基百科详细介绍：<https://zh.wikipedia.org/wiki/Shadowsocks#ShadowsocksR>
 - 利用AWS 搭建免费Shadowsocks：[http://lichendi.com/2016/06/07/shadowsocks/](http://lichendi.com/2016/06/07/%E5%88%A9%E7%94%A8AWS%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9shadowsocks/)
 - Google Cloud 可以免费拿一台VPS 试用一年：<http://51.ruyo.net/p/2144.html>
 - 个人觉得不错的SS 服务商：
 	- [https://ww.rixcloud.com](https://my.rixcloud.com/aff.php?aff=397)
+	- <https://www.boomssx.com>
 	- <https://duotai.love>
 	- <http://www.dropboxchina.com/ss.html>
 - 免费SS 账号分享（能不能用，能用多久我就不确定了）
 	- <https://free-ss.site>
-	- <https://ss.weirch.com>
 	- <http://mirror.weirch.com>
+	- https://doub.bid/sszhfx/
 
 ###### 区别
 &nbsp;&nbsp;&nbsp;&nbsp;VPN 也是传输方式，VPN 默认是全局的（也有少数是可以分流的），开启后所有App 软件都会走代理，而且VPN 的特征值太明显，目前已被G·F·W 干扰。
