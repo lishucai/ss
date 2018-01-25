@@ -27,7 +27,7 @@
 	- <http://mirror.weirch.com>
 	- https://doub.bid/sszhfx/
 
-###### 区别
+### 区别
 &nbsp;&nbsp;&nbsp;&nbsp;VPN 也是传输方式，VPN 默认是全局的（也有少数是可以分流的），开启后所有App 软件都会走代理，而且VPN 的特征值太明显，目前已被G·F·W 干扰。<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;SS 是和VPN 完全不同类型的东西，SS 的客户端是智能代理智能分流，根据规则自动判断，只有被墙了的才会走代理（自己也可以设置代理域名和IP），不需要代理的走直连，这样就可以7x24的开启SS，国内和没被墙的走直连不走代理，国内国外两不误。SS 比VPN 好用太多了！
 
