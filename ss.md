@@ -35,11 +35,16 @@
 
 - iOS 上的 SS 客户端（国区可下载）：
 	- [Surge 3](https://itunes.apple.com/cn/app/surge-3-web-developer-tool/id1329879957)
-	- [OpenWingy](https://itunes.apple.com/cn/app/openwingy/id1294672758)
 	- [Quantumult](https://itunes.apple.com/cn/app/quantumult/id1252015438)
+	- [SuperWingy](https://itunes.apple.com/cn/app/id1290093815)
+	- [FirstWingy](https://itunes.apple.com/cn/app/firstwingy/id1316416848)
 	- [Detour](https://itunes.apple.com/cn/app/id1260141606)
 	- [SkipWorld](https://itunes.apple.com/cn/app/skipworld/id1183653098)
 	- [Kitsunebi](https://itunes.apple.com/cn/app/id1275446921)
+	- [Banana](https://itunes.apple.com/cn/app/id1234881211)
+	- [SsrConnectPro](https://itunes.apple.com/cn/app/id1272045249)
+	- [Surge Enterprise](https://itunes.apple.com/cn/app/id1249961855)
+	- [寒梅 - Mume Red](https://itunes.apple.com/cn/app/id1256315160)
 - iOS 上的 SS 客户端（仅国区下架，其他区可下载）：
 	- [Surge](https://itunes.apple.com/us/app/surge-web-developer-tool-proxy/id1040100637)
 	- [Shadowrocket](https://itunes.apple.com/us/app/shadowrocket-for-shadowsocks/id932747118?mt=8)
@@ -49,6 +54,7 @@
 	- [A.BIG.T](https://itunes.apple.com/us/app/surfing-advanced-proxy/id1051326718)
 	- [Potatso 2](https://itunes.apple.com/us/app/id1162704202)
 	- [Potatso Lite](https://itunes.apple.com/us/app/id1239860606)
+	- [OpenWingy](https://itunes.apple.com/cn/app/openwingy/id1294672758)
 	- [AnyFlow](https://itunes.apple.com/us/app/anyflow-a-super-cool-network-tool/id1176894911)
 	- [Shadowing](https://itunes.apple.com/us/app/shadowing/id1194879940)
 	- [Shadowfish](https://itunes.apple.com/us/app/shadowfish/id1220680757)
