@@ -8,9 +8,9 @@
 * 福利
 *** 
 ### 介绍
-   SS 的全称是Shadowsocks，是一种加密的传输方式（一种基于Socks5 代理方式的网络数据加密传输包）；SS 是目前主流的科学上网方式。
-   SSR（全称ShadowsocksR）是SS 的修改版，也算是增强版，是在SS 的基础上做了些功能的增加和修改。
-   有很多的SS 客户端，但是仅仅有SS 客户端还不能翻墙，`还得需要在SS 客户端中添加正常可用的SS 信息，SS 信息可以自己买VPS 服务器搭建，也可以买别人搭建好的，也有人搭建了免费共享出来的`。网上卖SS 信息的非常多非常多（不过跑路的也很多，自己当心），但都不是官方提供，SS 官网并不卖服务。
+&nbsp;&nbsp;&nbsp;&nbsp;SS 的全称是Shadowsocks，是一种加密的传输方式（一种基于Socks5 代理方式的网络数据加密传输包）；SS 是目前主流的科学上网方式。<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;SSR（全称ShadowsocksR）是SS 的修改版，也算是增强版，是在SS 的基础上做了些功能的增加和修改。<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;有很多的SS 客户端，但是仅仅有SS 客户端还不能翻墙，`还得需要在SS 客户端中添加正常可用的SS 信息，SS 信息可以自己买VPS 服务器搭建，也可以买别人搭建好的，也有人搭建了免费共享出来的`。网上卖SS 信息的非常多非常多（不过跑路的也很多，自己当心），但都不是官方提供，SS 官网并不卖服务。
 - SS 唯一官网（官网不卖服务）：<https://shadowsocks.org>
 - 维基百科详细介绍：<https://zh.wikipedia.org/wiki/Shadowsocks>
 - 原理看这个：<http://vc2tea.com/whats-shadowsocks>
